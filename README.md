@@ -7,13 +7,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyunandanovan&label=Profile%20views&color=0e75b6&style=flat" alt="wahyunandanovan" /> </p>
 
-- 🔭 I’m currently working on [DUKM kota Depok](http://dkum.wirausahabarudepok.com/)
+- 🔭 I’m currently working on [Code Art Online](http://codeartonline.com/)
 
 - 🌱 I’m currently learning **Frameworks, courses etc.**
 
 - 👨‍💻 All of my projects are available at [http://myportfolio-psi-swart.vercel.app/](http://myportfolio-psi-swart.vercel.app/)
 
-- 📝 I regularly write articles on [http://myportfolio-psi-swart.vercel.app/](http://myportfolio-psi-swart.vercel.app/)
+- 
 
 - 💬 Ask me about **react js**
 
