@@ -13,8 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [http://myportfolio-psi-swart.vercel.app/](http://myportfolio-psi-swart.vercel.app/)
 
-- 
-
 - 💬 Ask me about **react js**
 
 - 📫 How to reach me **wahyunandanovan@gmail.com**
