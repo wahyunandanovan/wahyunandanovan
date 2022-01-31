@@ -1,6 +1,7 @@
-<p><img Width="1000" src="https://equinoxx.in/images/Courses-Banner/web-development.jpg" alt="banner"/></p>
+
 <h1 align="center">Hi 👋, I'm wahyunandanovan</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<h4 align="center">A passionate frontend developer from Indonesia</h4>
+<br><br>
 <img align="right" alt="cahcoding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
 
