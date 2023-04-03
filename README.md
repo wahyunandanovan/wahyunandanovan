@@ -1,5 +1,5 @@
 
-<h1 align="center" >Hii 👋, I'm Wahyu Nanda</h1>
+<h1 align="center" >Hii 👋, I'm Wahyu Nanda N</h1>
 <!-- <img align="right" alt="cahcoding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
  -->
 
