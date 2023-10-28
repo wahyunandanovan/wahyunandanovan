@@ -5,7 +5,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyunandanovan&label=Profile%20views&color=0e75b6&style=flat" alt="wahyunandanovan" /> </p>
 
 
-![Wahyu nanda's github stats](https://github-readme-stats.vercel.app/api?username=wahyunandanovan&show_icons=true&theme=flag-india&count_private=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wahyunandanovan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
