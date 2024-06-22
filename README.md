@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [tekko.id](https://tekko.id)
 
-- 🌱 I’m currently learning **Django Framework**
+- 🌱 I’m currently learning **Laravel Framework**
 
 - 👨‍💻 All of my projects are available at [wahyunanda.site](wahyunanda.site)
 
