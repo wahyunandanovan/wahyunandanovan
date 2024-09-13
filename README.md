@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **wahyunandanovan@gmail.com**
 
-- ⚡ Fun fact **I love Typescript**
+- ⚡ Fun fact **I love Typescript **
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
