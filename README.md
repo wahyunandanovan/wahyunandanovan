@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wahyu nanda</h1>
 <h3 align="center">A passionate fullstack developer from Indonesian</h3>
 
-- 🔭 I’m currently working on [Beefinity](https://www.beefinity.com/en/)
+- 🔭 I’m currently working on [tekko.id](https://tekko.id) 
 
 - 🌱 I’m currently learning **Sveltekit**
 
